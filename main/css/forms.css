@@ -1,0 +1,160 @@
+#login {
+    width: 40%;
+    position: relative;
+    margin-left: 30%;
+    margin-top: 2%;
+    background:#bfd9be;
+    color:#181111;
+    padding: 1px;
+    border: 2px solid #072300;
+    text-align:center;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 22px;
+}
+
+#register {
+    width: 35%;
+    position: relative;
+    margin-left: 30%;
+    margin-top: 2%;
+    background:#bfd9be;
+    color:#181111;
+    padding: 4px;
+    padding-bottom: 6px;
+    border: 2px solid #072300;
+    text-align:center;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 22px;
+}
+
+#search {
+    width: 35%;
+    position: relative;
+    margin-left: 30%;
+    margin-top: 2%;
+    background:#bfd9be;
+    color:#181111;
+    padding: 4px;
+    padding-bottom: 6px;
+    border: 2px solid #072300;
+    text-align:center;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 22px;
+}
+
+#search #names {
+	width: 37%;
+	display:none; 
+	position:relative; 
+	padding: 1px;
+	margin-top: 0%;
+	margin-bottom: 0%;
+	margin-left: 36%;  
+	background:#d8efd3;
+	text-align:left;
+	text-decoration:none;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 8px;
+}
+
+#search #names a{
+	color:#181111;
+	text-decoration:none;
+	font-family: Book Antiqua, Palatino, serif;
+}
+
+#search #names a:hover{
+	text-decoration:none;
+	display:block;
+	background:#b5b5b5;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 5px;
+}
+
+#change_pass {
+    width: 30%;
+    position: relative;
+    margin-left: 35%;
+    margin-top: 1%;
+    background:#bfd9be;
+    color:#181111;
+    padding: 6px;
+    border: 2px solid #072300;
+    text-align:center;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 22px;
+}
+
+#change_email {
+    width: 36%;
+    position: relative;
+    margin-left: 32%;
+    margin-top: 1%;
+    background:#bfd9be;
+    color:#181111;
+    padding: 6px;
+    border: 2px solid #072300;
+    text-align:center	;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 22px;
+}
+
+#press{
+	position:relative;
+	background:#99a297;
+	color:#4d7244;
+	text-align:center;
+	font-weight: bold;
+	font-family: Book Antiqua, Palatino,serif;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 22px;
+}
+
+#press:hover{
+	background:#b3f6a3;
+}
+
+#pass{
+	background:#9ba698;
+	color:#4d7244;
+	text-align:center;
+	position:relative;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 8px;
+}
+
+#input{
+	background:#e7ffe2;
+	color:#293526;
+	text-align: left;
+	font-weight: bold;
+	font-family: Book Antiqua, Palatino,serif;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 8px;
+}
+
+#upload {
+    width: 35%;
+    position: relative;
+    margin-left: 30%;
+    margin-top: 2%;
+    background:#bfd9be;
+    color:#181111;
+    padding: 4px;
+    padding-bottom: 6px;
+    border: 2px solid #072300;
+    text-align:center;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 22px;
+}

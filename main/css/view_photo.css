@@ -1,0 +1,259 @@
+#info{
+	width: 73%;
+	position: relative;
+	margin-left: 0.5%;
+	margin-top: 1%;
+	background:#e3e8e3;
+	color:#181111;
+	padding-top: 1px;
+	padding-bottom: 18px;
+	text-align:left;
+	-moz-border-radius: 14px;
+	-webkit-border-radius: 14px;
+	border-radius: 16px;
+}
+
+#info #title{
+	width: 85%;
+	position: relative;
+	text-align:center;
+	padding:1px;
+	margin-left: 1%;
+	margin-top: 1%;
+	color:#1f761a;
+}
+
+.tt{
+	width: 90%;
+	position: relative;
+	font-weight:bold;
+	font-size:26px;
+	margin-left: 0.5%;
+	margin-top: 1%;
+	color:#212323;
+}
+
+.dt{
+	color:#795757;
+}
+
+.usr{
+	width: 100%;
+	position: relative;
+	text-decoration:underline;
+	margin-left: 1%;
+	margin-top: 1%;
+	color:#183221;
+}
+
+
+#info img{
+	width: 85%;
+	padding:1px;
+	margin-left: 1%;
+	position: relative;
+}
+
+#info h4{
+	font-size:24px;
+}
+
+#info #user{
+	width: 11%;
+	position: relative;
+	margin-right: 1%;
+	float:right;
+	padding:2px;
+	background:#c8cdc6;
+	text-align:center;
+}
+
+#info #user a{
+	color:#1b1f20;
+	background:#aeb8aa;
+	padding:2px;
+	text-decoration:none;
+	font-weight:bold;
+	font-family: Book Antiqua, Palatino, serif;
+}
+
+#info #user a:hover{
+	color:#354136;
+	background:#e5ffd9;
+	text-decoration:none;
+}
+
+#info #desc{
+	width: 85%;
+	position: relative;
+	font-family: Book Antiqua, Palatino, serif;
+	text-decoration:none;
+	font-style: italic;
+	color:#3a443b;
+	background:#cfe1d1;
+	margin-left: 1%;
+	margin-top: 2px;
+	padding-top:2px;
+	padding-bottom:2px;
+	padding-left:2px;
+	padding-right:2px;
+}
+
+#info #com_sec{
+	width: 85%;
+	position: relative;
+	text-align:left;
+	padding-left:4px;
+	margin-left: 1%;
+	padding-bottom: 2%;
+	background:#cfe1d1;
+	color:#112c14;
+}
+
+.add_com{
+	width: 25%;
+	position: relative;
+	font-family: Book Antiqua, Palatino, serif;
+	text-decoration:none;
+	font-style: italic;
+	color:#1c251d;
+	margin-left: 2%;
+	margin-top: 1%;
+	padding-top:2px;
+	padding-bottom:2px;
+	padding-left:10px;
+}
+
+.com{
+	width: 85%;
+	position: relative;
+	font-family: Book Antiqua, Palatino, serif;
+	text-decoration:none;
+	font-style: italic;
+	color:#0c2c1d;
+	background:#b4b8b4;
+	margin-left: 1%;
+	margin-top: 2px;
+	padding-top:2px;
+	padding-bottom:2px;
+	padding-left:2px;
+
+}
+
+.ul{
+	list-style: none;
+	margin-left: -2%;
+	margin-bottom: 2%;
+}
+
+.tg a{
+	font-family: Book Antiqua, Palatino, serif;
+	text-decoration:none;
+	color:#06500d;
+}
+
+.tg a:hover{
+	font-family: Book Antiqua, Palatino, serif;
+	text-decoration:none;
+	color:#54aa61;
+}
+
+
+.tg a{
+	font-family: Book Antiqua, Palatino, serif;
+	text-decoration:none;
+	font-style: italic;
+	color:#11aa61;
+}
+
+#like{
+	width: 15%;
+	font-family: Book Antiqua, Palatino, serif;
+	font-weight: bold;
+	text-decoration:none;
+	background:#f2f8f0;
+	color:#394e34;
+	position: relative;
+	margin-left: 5%;
+	margin-top: 2px;
+	-moz-border-radius: 14px;
+	-webkit-border-radius: 14px;
+	border-radius: 16px;
+}
+
+#dislike{
+	width: 15%;
+	font-weight: bold;
+	font-family: Book Antiqua, Palatino, serif;
+	text-decoration:none;
+	background:#fbf5f5;
+	color:#311919;
+	position: relative;
+	margin-left: 1%;
+	margin-top: 2px;
+	-moz-border-radius: 14px;
+	-webkit-border-radius: 14px;
+	border-radius: 16px;
+}
+
+#like:hover{
+	background:#cbffc1;
+	color:#34793e;
+}
+
+#dislike:hover{
+	background:#efd3d3;
+	color:#6d1515;
+}
+
+#like:disabled{
+	font-family: Book Antiqua, Palatino, serif;
+	text-decoration:none;
+	background:#494141;
+	color:#54aa61;
+	position: relative;
+	margin-left: 3%;
+	margin-top: 2px;
+	-moz-border-radius: 14px;
+	-webkit-border-radius: 14px;
+	border-radius: 16px;
+}
+
+#dislike:disabled{
+	font-family: Book Antiqua, Palatino, serif;
+	text-decoration:none;
+	background:#494141;
+	color:#6d1515;
+	position: relative;
+	margin-left: 3%;
+	margin-top: 2px;
+	-moz-border-radius: 14px;
+	-webkit-border-radius: 14px;
+	border-radius: 16px;
+}
+
+#bars{
+	width: 35%;
+	position: relative;
+	font-family: Book Antiqua, Palatino, serif;
+	text-decoration:none;
+	margin-left: 1%;
+
+	margin-bottom: 1%;
+}
+
+#lbar{
+	position: relative;
+	background-color:#aada37;
+	border:solid 1px #698a14;
+	width:0px;
+	height:12px;
+}
+
+#dbar{
+	position: relative;
+	background-color:#cf362f;
+	border:solid 1px #881811;
+	width:0px;
+	height:12px;
+}

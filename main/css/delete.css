@@ -1,0 +1,39 @@
+#info{
+
+}
+
+#info img{
+	width: 36%;
+	position: relative;
+}
+
+#info h4{
+	font-size:20px;
+}
+
+#info #desc{
+	width: 35.7%;
+	position: relative;
+	font-family: Book Antiqua, Palatino, serif;
+	text-decoration:none;
+	font-style: italic;
+	color:#3a443b;
+	background:#cfe1d1;
+	margin-left: 32%;
+	margin-top: 2px;
+	padding-top:2px;
+	padding-bottom:2px;
+	padding-left:2px;
+	padding-right:2px;
+}
+
+.tg {
+	font-family: Book Antiqua, Palatino, serif;
+	text-decoration:none;
+	color:#06500d;
+}
+
+.warn{
+	color:#b01111;
+	text-decoration:underline;
+}
